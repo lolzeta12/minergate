@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "pool.sumokoin.hashvault.pro:80", "wallet_address" : "Sumoo4YFkDG5gKj4KFeSQcP3qhNLdAXZfEHE99RFHBdpDMUiyMDiNakVwujny1D3CMUy6dfx7NXzq3cVohYaGQsKJTrMQfpBZtE", "rig_id" : "", "pool_password" : "AspireNitro:memphisto666@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.haven.hashvault.pro:80", "wallet_address" : "hvi1aCqoAZF19J8pijvqnrUkeAeP8Rvr4XyfDMGJcarhbL15KgYKM1hN7kiHMu3fer5k8JJ8YRLKCahDKFgLFgJMYAfnLbTxq3q2z2JGm67vF", "rig_id" : "", "pool_password" : "AspireNitro:memphisto666@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -45,5 +45,5 @@
  *    cryptonight_heavy
  */
 
-"currency" : "sumokoin",
+"currency" : "monero7",
 
